@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 14px;
+    padding: 10px;
+
+}
+.container li{
+    list-style-type: none;
+
+}
+.container button{
+    padding: 9px 16px;
+    border: none;
+    color: whitesmoke;
+    border-radius: 5px;
+
+}

@@ -1,0 +1,70 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "HTML is easy",
+      "important": false
+    },
+    {
+      "id": 2,
+      "content": "Browser can execute only JavaScript",
+      "important": false
+    },
+    {
+      "id": 3,
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": true
+    },
+    {
+      "content": "Do Home work",
+      "important": false,
+      "id": 4
+    },
+    {
+      "content": "Show me some things in the kitchen",
+      "important": false,
+      "id": 5
+    },
+    {
+      "content": "notes",
+      "important": false,
+      "id": 6
+    },
+    {
+      "content": "Server dey body",
+      "important": true,
+      "id": 7
+    },
+    {
+      "content": "Nothing to see here",
+      "important": true,
+      "id": 8
+    },
+    {
+      "content": "Because my server answers to only me",
+      "important": true,
+      "id": 9
+    },
+    {
+      "content": "Why is there a bug here?",
+      "important": true,
+      "id": 16
+    },
+    {
+      "content": "notes is not really the deal",
+      "important": true,
+      "id": 17
+    },
+
+    {
+      "content": "nothing is real",
+      "important": false,
+      "id": 26
+    },
+    {
+      "content": "nothig ",
+      "important": false,
+      "id": 27
+    }
+  ]
+}
